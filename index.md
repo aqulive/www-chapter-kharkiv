@@ -2,15 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Kharkiv
-tags: example-tag
+# tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
 level: 0
 
 region: Europe
 
-auto-migrated: 1
-meetup-group: OWASP-Kharkiv-Chapter
-country: Ukraine
-postal-code: 
 
 ---
 
@@ -52,9 +48,9 @@ OWASP Kharkiv on social networks:
 
 Follow our news and announcements on social
 media:
-- [Facebook](https://www.facebook.com/owasp.kh/);
-- [Telegram](https://t.me/owasp_kharkiv);
-- [Instagram](https://www.instagram.com/owasp_kharkiv/);
+- [Facebook](https://www.facebook.com/owasp.kh/)
+- [Telegram](https://t.me/owasp_kharkiv)
+- [Instagram](https://www.instagram.com/owasp_kharkiv/)
 - [Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
 
 ## How to support the chapter
@@ -75,3 +71,4 @@ of your talk and speaker bio to [Vitalii Balashov](mailto:vitalii.balashov@owasp
 
 To sponsor an OWASP Kharkiv event, contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
 
+## Announcements
