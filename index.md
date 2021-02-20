@@ -31,8 +31,42 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
-## Welcome
-Include some information here about your chapter
+-->
+## Who are we
+
+![OWASP Kharkiv](assets/images/owaspkharkiv.jpg "OWASP Kharkiv")
+
+Welcome to the OWASP Kharkiv chapter homepage.
+
+[Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+The chapter is run by a team of dedicated cyber security enthusiasts.
+
+Everyone is welcome to join us at our chapter meetings.
+
+## How to find us
+
+OWASP Kharkiv on social networks:
+
+Follow our news and announcements on social
+media: [Facebook](https://www.facebook.com/owasp.kh/), [Telegram](https://t.me/owasp_kharkiv), [Instagram](https://www.instagram.com/owasp_kharkiv/), [Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
+
+## How to support the chapter
+
+If your company wishes to support the chapter, please contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+
+# Future Events
+
+## Become a Speaker
+
+Call For Speakers at OWASP Kharkiv events is permanently open. If you want
+to present at future events, review and agree with the [OWASP Speaker
+Agreement](Speaker_Agreement "wikilink") and check for upcoming events
+at <https://cfp.owaspukraine.org>, or simply send the title and abstract
+of your talk and speaker bio to [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
+
+## Become a Sponsor
+
+To sponsor an OWASP Kharkiv event, contact [Vitalii Balashov](mailto:vitalii.balashov@owasp.org) and [Victoria Paschenko](mailto:victoria.paschenko@owasp.org).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -54,4 +88,3 @@ This separate file is where you should place links to your Google Group and Meet
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
