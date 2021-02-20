@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kharkiv
-# tags: supporters-tag past2020-tag past2019-tag past2018-tag past2017-tag
+tags: supporters-tag past2019-tag past2019(vol.2)-tag
 level: 0
 
 region: Europe
