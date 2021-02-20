@@ -34,11 +34,13 @@ Replace the text above the commented area with your information in the format be
 -->
 ## Who are we
 
-<!-- ![OWASP Kharkiv](assets/images/owaspkharkiv.jpg "OWASP Kharkiv") -->
+![OWASP Kharkiv](assets/images/owaspkharkiv.jpg#center)
 
-img[assets/images/owaspkharkiv.jpg*='#center'] {
-    float: center;
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
 }
+
 
 Welcome to the OWASP Kharkiv chapter homepage.
 
