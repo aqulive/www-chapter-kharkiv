@@ -18,7 +18,7 @@ tags: past2019(vol.2)-tag
 ### Agenda
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/agenda.jpg#center">
+  <img width="400" height="500" src="assets/images/agenda.jpg#center">
 </p>
 
 ### Speakers
