@@ -7,7 +7,7 @@ Application Security community by funding our quarterly chapter
 meetings.
 
 <p align="center">
-  <a href="https://www.epam.com/"><img width="300" height="300" src="assets/images/epam.jpg#center"></a>
+  <a href="https://www.epam.com/"><img width="200" height="200" src="assets/images/epam.jpg#center"></a>
 </p>
 
 <p align="center">

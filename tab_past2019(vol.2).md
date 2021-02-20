@@ -24,27 +24,27 @@ tags: past2019(vol.2)-tag
 ### Speakers
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s1.jpg#center">
+  <img width="400" height="500" src="assets/images/s1.jpg#center">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s2.jpg#center">
+  <img width="400" height="500" src="assets/images/s2.jpg#center">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s3.jpg#center">
+  <img width="400" height="500" src="assets/images/s3.jpg#center">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s4.jpg#center">
+  <img width="400" height="500" src="assets/images/s4.jpg#center">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s5.jpg#center">
+  <img width="400" height="500" src="assets/images/s5.jpg#center">
 </p>
 
 <p align="center">
-  <img width="300" height="400" src="assets/images/s6.jpg#center">
+  <img width="400" height="500" src="assets/images/s6.jpg#center">
 </p>
 
 
