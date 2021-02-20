@@ -15,14 +15,15 @@ tags: past2019-tag
 
 **Location** Student Center of [Kharkiv School of Architecture](https://kharkiv.school/)
 
-**Translation** [Youtube](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
+**Translation**
+You can watch the meetup of the [Youtube](https://www.youtube.com/watch?v=CC1knihiT6E&list=PL9SNXXIM4tGeaTQ3_lPSE4L4dLnnIgvjc)
 
 ## Sponsors
 
 <p align="center">
-  <img width="300" height="300" src="assets/images/webspellchecker.jpg#center">
+  <a href="https://webspellchecker.com/"><img width="300" height="300" src="assets/images/webspellchecker.jpg#center"></a>
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="assets/images/devpro.jpg#center">
+  <a href="https://dev.pro/"><img width="300" height="300" src="assets/images/devpro.jpg#center"></a>
 </p>
