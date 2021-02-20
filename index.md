@@ -34,7 +34,11 @@ Replace the text above the commented area with your information in the format be
 -->
 ## Who are we
 
-![OWASP Kharkiv](assets/images/owaspkharkiv.jpg "OWASP Kharkiv")
+<!-- ![OWASP Kharkiv](assets/images/owaspkharkiv.jpg "OWASP Kharkiv") -->
+
+img[assets/images/owaspkharkiv.jpg*='#center'] {
+    float: center;
+}
 
 Welcome to the OWASP Kharkiv chapter homepage.
 
@@ -48,7 +52,11 @@ Everyone is welcome to join us at our chapter meetings.
 OWASP Kharkiv on social networks:
 
 Follow our news and announcements on social
-media: [Facebook](https://www.facebook.com/owasp.kh/), [Telegram](https://t.me/owasp_kharkiv), [Instagram](https://www.instagram.com/owasp_kharkiv/), [Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
+media:
+- [Facebook](https://www.facebook.com/owasp.kh/);
+- [Telegram](https://t.me/owasp_kharkiv);
+- [Instagram](https://www.instagram.com/owasp_kharkiv/);
+- [Youtube](https://www.youtube.com/channel/UCHK1l4e9lc7xjZ8lAaKhkrg)
 
 ## How to support the chapter
 
